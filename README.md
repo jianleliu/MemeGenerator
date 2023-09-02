@@ -18,7 +18,7 @@ This program was created to help myself better understand about API and the pyth
 * Make the image display(pixel map) auto adjust size when the MainWindow changes its size
 * Make a speed limit for requesting links so that requesting large amount of links is possible with longer time.
 
-# Imports - all included in the venv folder
+# Imports
 * random
 * requests
 * json
