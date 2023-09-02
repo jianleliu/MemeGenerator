@@ -54,10 +54,3 @@ This program was created to help myself better understand about API and the pyth
   * Randomly choose a image that was generated
     * if Repeat is false then the previous one will be delete(will never be viewed again).
 
-# SetUps
-* Download **.venv** folder and **MemeGenerator.py**.
-* Start command prompt and activate the venv by executing the **activate.bat** file in **.venv\Scripts\activate.bat**
-* Run the MemeGenerator within the venv.
-* Set the setting to the preferred settings then click the **generate** button.
-* Go to the display page by cicking the **display** button
-* Click **Next Image** to start viewing them.
